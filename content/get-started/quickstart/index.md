@@ -15,9 +15,10 @@ children:
   - /hello-world
   - /set-up-git
   - /create-a-repo
-  - /fork-a-repo
-  - /github-flow
-  - /contributing-to-projects
+  - /fork-a-off
+
+  - /github-a
+  - /contributing-to-project
   - /be-social
   - /communicating-on-github
   - /github-glossary
@@ -26,4 +27,4 @@ children:
 redirect_from:
   - /github/getting-started-with-github/quickstart/
 ---
-
+H
